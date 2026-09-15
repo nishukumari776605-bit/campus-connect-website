@@ -1,0 +1,39 @@
+h1{
+    font-size:40px;
+    color:navy;
+}
+
+h2{
+    font-size:30px;
+    color:navy;
+}
+
+p{
+    font-size:22px;
+    color:white;
+}
+
+div{
+    height:200px;
+    width:400px;
+    border:2px solid black;
+    display:inline-block;
+    background-color:rgb(118, 118, 183);
+    margin-right:20px;
+}
+
+h3{
+    color:white;
+    text-align:center;
+    font-size:25px;
+}
+
+pre{
+    font-size:20px;
+}
+button{
+    background-color:navy;
+    color:white;
+    width:60px;
+}
+
